@@ -1,8 +1,12 @@
 # Portfolio
 <!-- Banner -->
+ 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayeshMahajan8055/JayeshMahajan8055/main/github.png" width="100%" alt="Jayesh Mahajan Banner"/>
+  <img src="https://raw.githubusercontent.com/JayeshMahajan8055/Portfolio/main/Github/WhatsApp%20Image%202025-11-20%20at%2021.39.15_94351123.jpg" width="100%" alt="Jayesh Mahajan Banner"/>
 </p>
+
+
+
 
 <h1 align="center">👋 Hi, I'm Jayesh Mahajan</h1>
 <h3 align="center">AI & ML Engineer | Generative AI | Deep Learning | NLP | RAG Systems</h3>
