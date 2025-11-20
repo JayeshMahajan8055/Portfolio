@@ -2,7 +2,7 @@
 <!-- Banner -->
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayeshMahajan8055/Portfolio/main/Github/WhatsApp%20Image%202025-11-20%20at%2021.39.15_94351123.jpg" width="100%" alt="Jayesh Mahajan Banner"/>
+  <img src="https://raw.githubusercontent.com/JayeshMahajan8055/Portfolio/blob/main/GitHub.jpg)" width="100%" alt="Jayesh Mahajan Banner"/>
 </p>
 
 
