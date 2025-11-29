@@ -114,9 +114,10 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayeshMahajan8055&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=JayeshMahajan8055&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayeshMahajan8055&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshMahajan8055&theme=tokyonight&hide_border=false&fire=orange&currStreakNum=white&sideNums=white" />
 </p>
+
 
 
 ---
