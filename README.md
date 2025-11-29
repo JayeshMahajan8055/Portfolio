@@ -96,7 +96,7 @@
     <td><strong>🎬 StoryTails – AI Text-to-Video Generator</strong></td>
     <td>Converts written stories into animated video sequences using LLM-driven scene extraction with diffusion-based video generation.</td>
     <td>Llama 3, SDXL, SVD, XTTS, Streamlit, Python, FFmpeg</td>
-    <td><a href="https://github.com/JayeshMahajan8055/StoryTails-AI-" target="_blank">🔗 Coming Soon</a></td>
+    <td><a href="https://github.com/JayeshMahajan8055/StoryTails-AI-" target="_blank">🔗 View Project</a></td>
   </tr>
 </table>
 
