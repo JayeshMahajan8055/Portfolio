@@ -68,7 +68,7 @@
     <td><strong>⚖ Smart Legal Assistant – RAG Chatbot</strong></td>
     <td>Context-aware chatbot for legal document search, summarization, and interpretation using RAG + vector retrieval.</td>
     <td>LangChain, OpenAI, FAISS, Flask</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="#" target="_blank">https://github.com/JayeshMahajan8055/Lawglance</a></td>
   </tr>
 
   <tr>
