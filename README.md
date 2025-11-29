@@ -54,53 +54,8 @@
 
 ---
 
-## 🚀 Projects  
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Code</th>
-  </tr>
-
-  <tr>
-    <td><strong>⚖ Smart Legal Assistant – RAG Chatbot</strong></td>
-    <td>Context-aware chatbot for legal document search, summarization, and interpretation using RAG + vector retrieval.</td>
-    <td>LangChain, OpenAI, ChromaDB, Python</td>
-    <td><a href="https://github.com/JayeshMahajan8055/Lawglance" target="_blank">🔗 View Project</a></td>
-  </tr>
-
-  <tr>
-    <td><strong>📊 Bank Marketing Campaign Classifier</strong></td>
-    <td>Predicts customer responses to marketing campaigns using ML models with full EDA and automated pipeline workflow.</td>
-    <td>Python, Pandas, Scikit-learn, Matplotlib</td>
-    <td><a href="https://github.com/JayeshMahajan8055/Bank_Marketing_Term_Deposit_prediction" target="_blank">🔗 View Project</a></td>
-  </tr>
-
-  <tr>
-    <td><strong>📝 Text Summarization Pipeline</strong></td>
-    <td>Hybrid extractive + abstractive summarization using BERT/T5 with Flask-based UI and NLP preprocessing pipeline.</td>
-    <td>spaCy, NLTK, BERT, T5, Flask, Python</td>
-    <td><a href="https://github.com/JayeshMahajan8055/Text_Summarization_Tool_-NLP-" target="_blank">🔗 View Project</a></td>
-  </tr>
-
-  <tr>
-    <td><strong>🚗 Number Plate Detection System</strong></td>
-    <td>Real-time license plate detection using YOLOv8, OCR-based text extraction, and regex validation pipeline.</td>
-    <td>YOLOv8, OpenCV, EasyOCR, Python</td>
-    <td><a href="https://github.com/JayeshMahajan8055/Number_Plate_Detection-" target="_blank">🔗 View Project</a></td>
-  </tr>
-
-  <tr>
-    <td><strong>🎬 StoryTails – AI Text-to-Video Generator</strong></td>
-    <td>Converts written stories into animated video sequences using LLM-driven scene extraction with diffusion-based video generation.</td>
-    <td>Llama 3, SDXL, SVD, XTTS, Streamlit, Python, FFmpeg</td>
-    <td><a href="https://github.com/JayeshMahajan8055/StoryTails-AI-" target="_blank">🔗 View Project</a></td>
-  </tr>
-</table>
-
-
+🚀 Projects
+<table> <tr> <th>Domain</th> <th>Project</th> <th>Description</th> <th>Tech Stack</th> <th>Code</th> </tr> <!-- GEN AI --> <tr> <td><strong>🧠 Generative AI</strong></td> <td><strong>StoryTails – AI Text-to-Video Generator</strong></td> <td>Generated animated video sequences from written stories using LLM-driven scene extraction and diffusion-based video generation pipeline.</td> <td>Llama 3, SDXL, SVD, XTTS, Streamlit, Python, FFmpeg</td> <td><a href="https://github.com/JayeshMahajan8055/StoryTails-AI-" target="_blank">🔗 View</a></td> </tr> <!-- NLP --> <tr> <td><strong>💬 NLP</strong></td> <td><strong>Text Summarization Pipeline</strong></td> <td>Developed hybrid extractive–abstractive summarization tool using BERT/T5 with custom preprocessing and Flask UI.</td> <td>spaCy, NLTK, BERT, T5, Flask, Python</td> <td><a href="https://github.com/JayeshMahajan8055/Text_Summarization_Tool_-NLP-" target="_blank">🔗 View</a></td> </tr> <!-- Deep Learning --> <tr> <td><strong>🤖 Deep Learning</strong></td> <td><strong>Smart Legal Assistant – RAG Chatbot</strong></td> <td>Built context-aware chatbot for legal document retrieval and interpretation using RAG architecture and vector-based semantic search.</td> <td>LangChain, OpenAI, ChromaDB, Python</td> <td><a href="https://github.com/JayeshMahajan8055/Lawglance" target="_blank">🔗 View</a></td> </tr> <!-- Computer Vision --> <tr> <td><strong>👁 Computer Vision</strong></td> <td><strong>Number Plate Detection System</strong></td> <td>Implemented real-time license plate detection using YOLOv8 with OCR-based text extraction and regex validation.</td> <td>YOLOv8, OpenCV, EasyOCR, Python</td> <td><a href="https://github.com/JayeshMahajan8055/Number_Plate_Detection-" target="_blank">🔗 View</a></td> </tr> <!-- Machine Learning --> <tr> <td><strong>📈 Machine Learning</strong></td> <td><strong>Bank Marketing Campaign Classifier</strong></td> <td>Built predictive ML pipeline for customer conversion using structured data, EDA, model tuning, and performance optimization.</td> <td>Python, Pandas, Scikit-learn, Matplotlib</td> <td><a href="https://github.com/JayeshMahajan8055/Bank_Marketing_Term_Deposit_prediction" target="_blank">🔗 View</a></td> </tr> <!-- Data Analysis --> <tr> <td><strong>📊 Data Analysis & BI</strong></td> <td><strong>Banking Campaign Insights Dashboard</strong></td> <td>Designed Power BI analytics dashboard for campaign performance monitoring and strategic decision-making insights.</td> <td>Power BI, SQL, Excel (data prep), Python</td> <td><a href="https://github.com/JayeshMahajan8055/Marketing_Campaign_Insights" target="_blank">🔗 View</a></td> </tr> </table>
 ---
 
 ## 🏆 Achievements  
