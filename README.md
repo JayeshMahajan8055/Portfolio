@@ -56,12 +56,24 @@
 🚀 Projects
 <table>
  <tr> <th>Domain</th> <th>Project</th> <th>Description</th> <th>Tech Stack</th> <th>Code</th> </tr> <tr>
-  <td><strong>🧩 Agentic AI (Multimodal)</strong></td>
+ <tr>
+  <td><strong>🤖 Agentic AI (Multimodal)</strong></td>
   <td><strong>MIRA – Multimodal Intelligent Reasoning Agent</strong></td>
-  <td>MIRA is an autonomous multimodal agent capable of processing text, images, PDFs, and audio. It extracts content, understands user intent, and performs tasks like summarization, sentiment analysis, OCR, and transcription with follow-up reasoning for clarity.</td>
-  <td>Python, FastAPI, LangChain, OCR (Tesseract), Whisper STT, PyPDF, Llama 3, Multi-Agent Workflow</td>
-  <td>🔗 Coming Soon</td>
+  <td>
+    End-to-end agentic system that accepts text, images, PDFs, and audio inputs,
+    performs OCR, transcription, and content extraction, classifies user intent using
+    local LLMs (Ollama), asks follow-up clarification questions, and autonomously
+    executes tasks such as summarization, sentiment analysis, code explanation,
+    YouTube transcript fetching, and Q&A using an intelligent task router.
+  </td>
+  <td>
+    FastAPI, Python, Tesseract OCR, PyPDF2, pdf2image, Whisper STT, LangChain,
+    HuggingFace Transformers, Ollama (Llama 3.2 / Mistral), HTML/JS
+  </td>
+  <td><a href="https://github.com/JayeshMahajan8055/MIRA-Multimodal-Intelligent-Reasoning-Agent" target="_blank">🔗 View</a></td>
 </tr>
+
+  
 <!-- MULTIMODAL GEN AI --> <tr> <td><strong>🎥 Multimodal Generative AI</strong></td> <td><strong>StoryTails – AI Text-to-Video Generator</strong></td> <td>End-to-end AI storytelling pipeline that converts text stories into animated videos using LLM-based scene extraction and diffusion-based video generation with neural voice narration.</td> <td>Python, Llama 3, SDXL, Stable Video Diffusion, Coqui XTTS, Streamlit, FFmpeg</td> <td><a href="https://github.com/JayeshMahajan8055/StoryTails-AI-" target="_blank">🔗 View</a></td> </tr> <!-- LLM + RAG GEN AI --> <tr> <td><strong>🧠 LLM + RAG (Generative AI)</strong></td> <td><strong>Smart Legal Assistant – AI RAG Chatbot (LegalTech Domain)</strong></td> <td>AI-driven legal assistant using RAG architecture to retrieve relevant legal documents and generate context-aware responses using the local LLaMA 3.1 model with efficient document chunking.</td> <td>Python, LangChain, ChromaDB, Groq LLaMA 3.1, Streamlit</td> <td><a href="https://github.com/JayeshMahajan8055/Lawglance" target="_blank">🔗 View</a></td> </tr> <!-- NLP --> <tr> <td><strong>💬 NLP</strong></td> <td><strong>Text Summarization Tool</strong></td> <td>Developed hybrid extractive–abstractive summarization system using BERT and T5 with NLP preprocessing and real-time evaluation using BLEU metrics.</td> <td>Python, NLTK, spaCy, Transformers (BERT, T5), Flask</td> <td><a href="https://github.com/JayeshMahajan8055/Text_Summarization_Tool_-NLP-" target="_blank">🔗 View</a></td> </tr> <!-- COMPUTER VISION (YOLO) --> <tr> <td><strong>👁 Computer Vision</strong></td> <td><strong>Number Plate Detection System</strong></td> <td>Real-time license plate detection using YOLOv8 with OCR and regular expression-based validation for increased accuracy.</td> <td>YOLOv8, OpenCV, EasyOCR, Python</td> <td><a href="https://github.com/JayeshMahajan8055/Number_Plate_Detection-" target="_blank">🔗 View</a></td> </tr> <!-- CNN --> <tr> <td><strong>🌿 CNN (Deep Learning Vision)</strong></td> <td><strong>PlantSpecialist – Plant Disease & Species Classifier</strong></td> <td>CNN-based image classifier to detect disease and plant species using image recognition and augmented datasets.</td> <td>Python, TensorFlow/PyTorch, OpenCV/PIL (Image Processing)</td> <td><a href="https://github.com/JayeshMahajan8055/PlantSpecialist" target="_blank">🔗 View</a></td> </tr> <!-- MACHINE LEARNING --> <tr> <td><strong>📈 Machine Learning</strong></td> <td><strong>Bank Marketing Campaign Classification</strong></td> <td>ML pipeline for customer conversion prediction using structured data, EDA, feature engineering, model optimization, and full evaluation (Accuracy, ROC-AUC, F1 Score).</td> <td>Python, Pandas, Scikit-learn, Matplotlib, Seaborn</td> <td><a href="https://github.com/JayeshMahajan8055/Bank_Marketing_Term_Deposit_prediction" target="_blank">🔗 View</a></td> </tr> <!-- DATA ANALYSIS --> <tr> <td><strong>📊 Data Analysis & BI</strong></td> <td><strong>Banking Campaign Insights Dashboard</strong></td> <td>Power BI dashboard to analyze campaign performance, customer segmentation, and conversion trends for strategic decision-making.</td> <td>Power BI, SQL, Excel (Preprocessing), Python</td> <td><a href="https://github.com/JayeshMahajan8055/Marketing_Campaign_Insights" target="_blank">🔗 View</a></td> </tr> </table>
 ---
 
