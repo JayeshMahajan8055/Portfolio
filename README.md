@@ -75,7 +75,7 @@
 
 ## 🏆 Achievements  
 - 🤖 *ML Intern – Symbiosis Institute of Geoinformatics* (May 2025 – Aug 2025)  
-- 🛰 Built ML pipelines on *MIMIC-IV healthcare data* improving accuracy by *7 %*  
+- 🛰 Built ML pipelines on *MIMIC-IV healthcare data* improving accuracy by *7%*  
 - ☁ *OCI Data Science Professional* – Oracle  
 - 🔮 *OCI Generative AI Professional* – Oracle  
 - 📘 Data Visualization – TATA Forage  
